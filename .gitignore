@@ -1,0 +1,32 @@
+# Node dependencies
+node_modules/
+
+# build outputs
+dist/
+build/
+coverage/
+
+# logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+*.log
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
+
+# environment files
+.env
+.env.*
+
+# packaged files
+*.tgz
+
+# caches
+.parcel-cache/
+/.cache/
+
+# Windows thumbnail cache
+Thumbs.db
